@@ -41,7 +41,7 @@ libraryDependencies += "org.apache.commons" % "commons-exec" % "1.3"
 //
 // CLI DEPENDENCIES
 //
-libraryDependencies += "net.sf.jopt-simple" % "jopt-simple" % "4.6" // MIT
+libraryDependencies += "net.sf.jopt-simple" % "jopt-simple" % "4.9" // MIT
 
 //
 // MAGIC DEPENDENCIES
